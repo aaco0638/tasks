@@ -1,0 +1,19 @@
+Previous role: system administrator
+
+list: 
+
+office 365, google admin console, ibm verify console, ARS (Active directory), intunes
+
+wider needs:
+
+Cloud computing
+
+Value:
+
+office 365 brought collobaration tools so we could all comunicate and create documents for better coordination.
+google admin console controlled permissions for all staff in the doe in terms of google related products/services.
+ibm verify console controlled permissions and login credentials for all staff in the doe. 
+ARS controlled what permissions someone or their device was allowed to access and what level of access they had. 
+intunes controlled device enrollement and permissions. 
+
+cloud computing is very broad but the doe depended on a lot of cloud services to keep everything running, including a virtual environment to do work anywhere. 
